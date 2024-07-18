@@ -3,6 +3,11 @@ Demo for practice
 # subheader
 Practice git hub
 
-##subheadeer
+
+# Local developement
+
+1. Open index.html in your browser
+
+
 
 
